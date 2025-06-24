@@ -1,3 +1,2 @@
-pyTelegramBotAPI
-pytube
-flask
+python-telegram-bot==20.6
+yt-dlp
